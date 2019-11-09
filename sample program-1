@@ -1,0 +1,11 @@
+import java.util.*;
+public class SampleInput
+{
+public static void main(String args[])
+{
+Scanner in = new Scanner(System.in);
+System.out.println("Enter a text");
+String s =nextLine();
+System.out.println(s);
+}
+}
